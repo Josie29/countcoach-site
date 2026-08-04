@@ -1,6 +1,6 @@
-# Count Coach — public site
+# Card Counter Coach — public site
 
-Support and privacy pages for the Count Coach iOS app, served by GitHub Pages.
+Support and privacy pages for the Card Counter Coach iOS app, served by GitHub Pages.
 The app's source lives in a separate private repository.
 
 | Page | URL |
